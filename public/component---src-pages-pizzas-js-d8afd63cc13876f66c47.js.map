@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/pizzas.js"],"names":["PizzasPage"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-pizzas-js-d8afd63cc13876f66c47.js","sourcesContent":["import React from 'react';\n\nexport default function PizzasPage() {\n  return <>This is the pizzas page!</>;\n}\n"],"sourceRoot":""}

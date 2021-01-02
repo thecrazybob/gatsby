@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/order.js"],"names":["OrderPage"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-order-js-c1d224b54481a9c5fe1b.js","sourcesContent":["import React from 'react';\n\nexport default function OrderPage() {\n  return <>This is the order page!</>;\n}\n"],"sourceRoot":""}

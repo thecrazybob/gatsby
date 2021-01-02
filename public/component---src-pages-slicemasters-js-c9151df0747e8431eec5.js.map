@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/slicemasters.js"],"names":["SliceMastersPage"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-slicemasters-js-c9151df0747e8431eec5.js","sourcesContent":["import React from 'react';\n\nexport default function SliceMastersPage() {\n  return <>This is the slice masters page!</>;\n}\n"],"sourceRoot":""}
